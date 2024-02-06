@@ -5,7 +5,7 @@ If you not know what Tool you should use for Example: You don't know what Termin
 - [Windows]()
 - [MacOS]()
 - [Linux]()
-
+  
 ## Teminal Emulators
 - All
   - [Terminus](https://termius.com/)
@@ -20,15 +20,13 @@ If you not know what Tool you should use for Example: You don't know what Termin
 ## Editors
 - Easy
   - [Visual Studio Code](https://code.visualstudio.com/)
-
 - Medium
   - [Subline](https://www.sublimetext.com/)
   - [Brackets](https://brackets.io/)
-
 - Harder
   - [Nvim]()
   - [Emacs](https://www.gnu.org/software/emacs/)
-
+    
 ## Browsers
 - [Brave](https://brave.com/de/)
 - [Arc Browser](https://arc.net/) (MacOS only)
