@@ -41,7 +41,7 @@ If you not know what Tool you should use for Example: You don't know what Termin
 - [fzf](https://github.com/junegunn/fzf)
 
 ## Font with Icons
-- [Nerdfonts] (https://www.nerdfonts.com/)
+- [Nerdfonts](https://www.nerdfonts.com/)
 
 ## Note Tools
 - [Notion](https://www.notion.so/)
