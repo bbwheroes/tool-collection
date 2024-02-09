@@ -4,7 +4,7 @@ If you not know what Tool you should use for Example: You don't know what Termin
 ## OS Spesific Tools
 - [Windows]()
 - [MacOS]()
-- [Linux]()
+- [Linux](os/linux.md)
   
 ## Teminal Emulators
 - All
