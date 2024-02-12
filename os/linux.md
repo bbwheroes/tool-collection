@@ -1,7 +1,7 @@
 # Linux Tools
 
-## Recomended Distros
-- If you are more there for looks see under Desktop Enviroments most of the time they are paired with a distro
+## Recommended  Distros
+- If you are more there for looks, see under Desktop Environments most of the time they are paired with a distro
 - [Pop!_os](https://pop.system76.com/) (Recommended)
 - [Mint](https://linuxmint.com/)
 - [MX Linux](https://mxlinux.org/)
@@ -16,25 +16,25 @@
 - [FreeBSD](https://www.freebsd.org/de/)
 - [EndeavourOS](https://endeavouros.com/)
 - [Arch](https://archlinux.org/) (Not Recommended for Beginners)
-## Whats displaying your apps
+## What's displaying your apps
   1. Display Server
 
      The display server draws shapes on the screen and lets you interact with them.  
   
   2. Display Manager
 
-     The display manager also login manager called is the first programm that runs afer BIOS/UEFI.
-     It set up you environment and asks you to log into your user.
+     The display manager, also login manager called is the first program that runs after BIOS/UEFI.
+     It sets up your environment and asks you to log into your user.
   
   4. Window Manager
 
-      A applicaton that manages you windows in a certain way.
+      An application that manages your windows in a certain way.
     
   5. Desktop Environment
 
       All above in a package. (Most of the time install with a Distro)
 ## Display Servers
-- [Xorg](https://wiki.archlinux.org/title/xorg) (Older with some bottlenecks but reliable Recommended)
+- [Xorg](https://wiki.archlinux.org/title/xorg) (Older with some bottlenecks but reliable, Recommended)
 - [Wayland](https://wayland.freedesktop.org/) (Faster but not as much Support)
 
 ## Display Manager
@@ -48,10 +48,10 @@
 - [Ly](https://github.com/fairyglade/ly)
 
 ## Window Manager (Tiling)
-- Most windown managers are tiling that means that they fill your whole screen. Even if you have more than one window open. This is for people who want to buff there efficenie and strive for mouseless development.
-- [i3](https://i3wm.org/) (Most popular window manager so alot of tutorials. Recommended)
-- [i3-gaps](https://github.com/Airblader/i3) (Fork form i3 with more options. Recommended if you want more options out of you i3-config. build from source)
-- [Sway](https://swaywm.org/?ref=itsfoss.com) (i3 but with Wayland)
+- Most window managers are tiling, that means that they fill your whole screen. Even if you have more than one window open. This is for people who want to buff their efficiency and strive for mouseless development.
+- [i3](https://i3wm.org/) (Most popular window manager, so many tutorials. Recommended)
+- [i3-gaps](https://github.com/Airblader/i3) (Fork form i3 with more options. Recommended if you want more options out of your i3-config. Build from source)
+- [Sway](https://swaywm.org/?ref=itsfoss.com) (i3, but with Wayland)
 - [bspwm](https://github.com/baskerville/bspwm)
 - [herbstluftwm](http://www.herbstluftwm.org/)
 - [awesome](https://awesomewm.org/index.html)
@@ -59,8 +59,8 @@
 - [XMonad](https://xmonad.org/)
 - [spectrwm](https://github.com/conformal/spectrwm)
 
-## Desktop Enviroments
-- Most of them come by default with a Distro but you can also mix and match. You just have to search a bit.
+## Desktop Environments
+- Most of them come by default with a Distro, but you can also mix and match. You just have to search a bit.
 - [Gnome](https://www.gnome.org/)
 - [XFCE](https://www.xfce.org/)
 - [KDE Plasma](https://kde.org/de/plasma-desktop/)
