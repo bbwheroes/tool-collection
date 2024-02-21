@@ -10,12 +10,12 @@
 - [Fedora](https://fedoraproject.org/de/)
 - [openSUSE](https://www.opensuse.org/)
 - [Zorin](https://zorin.com/os/)
-- [Gentoo Linux](https://www.gentoo.org/)
 - [CentOS](https://www.centos.org/)
 - [Debian](https://www.debian.org/index.de.html)
 - [FreeBSD](https://www.freebsd.org/de/)
 - [EndeavourOS](https://endeavouros.com/)
-- [Arch](https://archlinux.org/) (Not Recommended for Beginners)
+- [Arch](https://archlinux.org/) (Arch by the way)
+- [Gentoo Linux](https://www.gentoo.org/) (Arch by the way plus premium)
 ## What's displaying your apps
   1. Display Server
 
