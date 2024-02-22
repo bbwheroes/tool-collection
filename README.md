@@ -16,7 +16,10 @@ If you not know what Tool you should use for Example: You don't know what Termin
 - Linux
   - [Kitty](https://sw.kovidgoyal.net/kitty/)
   - [Konsole](https://konsole.kde.org/)
-    
+
+## Wallpapers
+- [Repo 1](https://github.com/D3Ext/aesthetic-wallpapers.git)
+
 ## Editors
 - Easy
   - [Visual Studio Code](https://code.visualstudio.com/)
