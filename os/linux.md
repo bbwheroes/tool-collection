@@ -58,6 +58,7 @@
 - [Tilix](https://www.tecmint.com/tilix-gtk3-tiling-terminal-emulator-for-linux/)
 - [XMonad](https://xmonad.org/)
 - [spectrwm](https://github.com/conformal/spectrwm)
+- [dwm](https://wiki.archlinux.org/title/dwm)
 
 ## Desktop Environments
 - Most of them come by default with a Distro, but you can also mix and match. You just have to search a bit.
