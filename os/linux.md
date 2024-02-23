@@ -29,8 +29,12 @@
   4. Window Manager
 
       An application that manages your windows in a certain way.
+
+  5. Compositor
+
+      To apply effect to your windows and support the window manager.
     
-  5. Desktop Environment
+  6. Desktop Environment
 
       All above in a package. (Most of the time install with a Distro)
 ## Display Servers
@@ -52,6 +56,7 @@
 - [i3](https://i3wm.org/) (Most popular window manager, so many tutorials. Recommended)
 - [i3-gaps](https://github.com/Airblader/i3) (Fork form i3 with more options. Recommended if you want more options out of your i3-config. Build from source)
 - [Sway](https://swaywm.org/?ref=itsfoss.com) (i3, but with Wayland)
+- [Hyprland](https://hyprland.org/)
 - [bspwm](https://github.com/baskerville/bspwm)
 - [herbstluftwm](http://www.herbstluftwm.org/)
 - [awesome](https://awesomewm.org/index.html)
@@ -59,6 +64,11 @@
 - [XMonad](https://xmonad.org/)
 - [spectrwm](https://github.com/conformal/spectrwm)
 - [dwm](https://wiki.archlinux.org/title/dwm)
+
+## Compositor
+- [Compton](https://github.com/chjj/compton)
+- [Picom](https://github.com/yshui/picom)
+- [Hyprland](https://hyprland.org/) (Is already install with Hyprland window manager)
 
 ## Desktop Environments
 - Most of them come by default with a Distro, but you can also mix and match. You just have to search a bit.
@@ -74,3 +84,7 @@
 
 ## Personal Tools
 - [LorenzHohermuth](https://safe-save-4fb.notion.site/Linux-Workflow-i3-f0e13afb09534a20ba9001797653d65a?pvs=4)
+
+## See other Peoples Rice
+A Rice is a Linux Setup
+[r/unixporn](https://www.reddit.com/r/unixporn/)
