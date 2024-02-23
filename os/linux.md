@@ -87,4 +87,4 @@
 
 ## See other Peoples Rice
 A Rice is a Linux Setup
-[r/unixporn](https://www.reddit.com/r/unixporn/)
+- [r/unixporn](https://www.reddit.com/r/unixporn/)
