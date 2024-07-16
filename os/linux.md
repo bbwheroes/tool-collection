@@ -14,8 +14,10 @@
 - [Debian](https://www.debian.org/index.de.html)
 - [FreeBSD](https://www.freebsd.org/de/)
 - [EndeavourOS](https://endeavouros.com/)
+- [NixOS](https://nixos.org/) (special pls read first page before using)
 - [Arch](https://archlinux.org/) (Arch by the way)
 - [Gentoo Linux](https://www.gentoo.org/) (Arch by the way plus premium)
+
 ## What's displaying your apps
   1. Display Server
 
@@ -37,6 +39,7 @@
   6. Desktop Environment
 
       All above in a package. (Most of the time install with a Distro)
+     
 ## Display Servers
 - [Xorg](https://wiki.archlinux.org/title/xorg) (Older with some bottlenecks but reliable, Recommended)
 - [Wayland](https://wayland.freedesktop.org/) (Faster but not as much Support)
@@ -54,7 +57,6 @@
 ## Window Manager (Tiling)
 - Most window managers are tiling, that means that they fill your whole screen. Even if you have more than one window open. This is for people who want to buff their efficiency and strive for mouseless development.
 - [i3](https://i3wm.org/) (Most popular window manager, so many tutorials. Recommended)
-- [i3-gaps](https://github.com/Airblader/i3) (Fork form i3 with more options. Recommended if you want more options out of your i3-config. Build from source)
 - [Sway](https://swaywm.org/?ref=itsfoss.com) (i3, but with Wayland)
 - [Hyprland](https://hyprland.org/)
 - [bspwm](https://github.com/baskerville/bspwm)
@@ -81,9 +83,6 @@
 - [Bungie](https://buddiesofbudgie.org/)
 - [Pantheon](https://elementary.io/)
 - [LXQT](https://lxqt-project.org/)
-
-## Personal Tools
-- [LorenzHohermuth](https://safe-save-4fb.notion.site/Linux-Workflow-i3-f0e13afb09534a20ba9001797653d65a?pvs=4)
 
 ## See other Peoples Rice
 A Rice is a Linux Setup
