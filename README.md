@@ -23,11 +23,12 @@ If you not know what Tool you should use for Example: You don't know what Termin
 ## Editors
 - Easy
   - [Visual Studio Code](https://code.visualstudio.com/)
+  - [Zed](https://zed.dev/)
 - Medium
   - [Subline](https://www.sublimetext.com/)
   - [Brackets](https://brackets.io/)
 - Harder
-  - [Nvim]()
+  - [Neovim](https://neovim.io/)
   - [Emacs](https://www.gnu.org/software/emacs/)
     
 ## Browsers
@@ -35,8 +36,9 @@ If you not know what Tool you should use for Example: You don't know what Termin
 - [Arc Browser](https://arc.net/) (MacOS only)
 - [Chromium](https://www.chromium.org/getting-involved/download-chromium/)
   
-## Shell (No Windows)
-- [zsh](https://ohmyz.sh/) (Oh my zsh)
+## Shell Prompt
+- [oh my zsh](https://ohmyz.sh/)
+- [starship]((https://starship.rs/))
 
 ## Fuzzy Search
 - [fzf](https://github.com/junegunn/fzf)
