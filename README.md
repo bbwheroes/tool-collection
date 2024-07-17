@@ -38,7 +38,7 @@ If you not know what Tool you should use for Example: You don't know what Termin
   
 ## Shell Prompt
 - [oh my zsh](https://ohmyz.sh/)
-- [starship]((https://starship.rs/))
+- [starship]((https://starship.rs/)
 
 ## Fuzzy Search
 - [fzf](https://github.com/junegunn/fzf)
