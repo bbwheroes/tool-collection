@@ -2,9 +2,10 @@
 If you not know what Tool you should use for Example: You don't know what Terminal are good and you need a Hint
 
 ## OS Spesific Tools
-- [Windows]()
-- [MacOS]()
 - [Linux](os/linux.md)
+
+## Privacy Oriented alternatives
+- [page](privacy/alternatives.md)
   
 ## Teminal Emulators
 - All
@@ -19,6 +20,7 @@ If you not know what Tool you should use for Example: You don't know what Termin
 
 ## Wallpapers
 - [Repo 1](https://github.com/D3Ext/aesthetic-wallpapers.git)
+- [Repo 2](https://github.com/makccr/wallpapers)
 
 ## Editors
 - Easy
@@ -38,13 +40,14 @@ If you not know what Tool you should use for Example: You don't know what Termin
   
 ## Shell Prompt
 - [oh my zsh](https://ohmyz.sh/)
-- [starship]((https://starship.rs/)
+- [starship](https://starship.rs/)
 
 ## Fuzzy Search
 - [fzf](https://github.com/junegunn/fzf)
 
 ## Font with Icons
 - [Nerdfonts](https://www.nerdfonts.com/)
+- [Font Awesome](https://fontawesome.com/)
 
 ## Note Tools
 - [Notion](https://www.notion.so/)
