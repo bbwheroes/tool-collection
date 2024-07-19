@@ -84,6 +84,24 @@
 - [Pantheon](https://elementary.io/)
 - [LXQT](https://lxqt-project.org/)
 
+## File Manager
+- File Explorer
+- [superfile](https://github.com/yorukot/superfile)
+- [ranger](https://github.com/ranger/ranger)
+
+## Screen Manager
+- [arandr](https://christian.amsuess.com/tools/arandr/)
+
+## Bluetooth Manager
+- [blueman](https://wiki.archlinux.org/title/Blueman)
+
+## Lock Screens
+- [i3lock](https://i3wm.org/i3lock/)
+- [i3lock-color](https://github.com/Raymo111/i3lock-color)
+
+## Notification Daemon
+- [dunst](https://github.com/dunst-project/dunst)
+
 ## See other Peoples Rice
 A Rice is a Linux Setup
 - [r/unixporn](https://www.reddit.com/r/unixporn/)
