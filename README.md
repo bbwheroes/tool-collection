@@ -26,9 +26,9 @@ If you not know what Tool you should use for Example: You don't know what Termin
 - Easy
   - [Visual Studio Code](https://code.visualstudio.com/)
   - [Zed](https://zed.dev/)
+  - [Brackets](https://brackets.io/)
 - Medium
   - [Subline](https://www.sublimetext.com/)
-  - [Brackets](https://brackets.io/)
 - Harder
   - [Neovim](https://neovim.io/)
   - [Emacs](https://www.gnu.org/software/emacs/)
