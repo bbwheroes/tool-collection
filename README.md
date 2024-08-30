@@ -35,7 +35,7 @@ If you not know what Tool you should use for Example: You don't know what Termin
     
 ## Browsers
 - [Brave](https://brave.com/de/)
-- [Arc Browser](https://arc.net/) (MacOS only)
+- [Arc Browser](https://arc.net/) (no Linux)
 - [Chromium](https://www.chromium.org/getting-involved/download-chromium/)
   
 ## Shell Prompt
