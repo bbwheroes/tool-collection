@@ -1,13 +1,13 @@
-# tool-collection
+# Tool Collection
 If you not know what Tool you should use for Example: You don't know what Terminal are good and you need a Hint
 
-## OS Spesific Tools
+## OS Specific Tools
 - [Linux](os/linux.md)
 
-## Privacy Oriented alternatives
+## Privacy Oriented Alternatives
 - [page](privacy/alternatives.md)
   
-## Teminal Emulators
+## Terminal Emulators
 - All
   - [Terminus](https://termius.com/)
   - [Alacritty](https://alacritty.org/)
